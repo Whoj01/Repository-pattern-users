@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - Mongo
 
-Bibliotecas
+## Bibliotecas
 
 - [Mongo](https://www.mongodb.com/pt-br)
 - [Typescript](https://www.typescriptlang.org/)
